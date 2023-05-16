@@ -1,0 +1,18 @@
+html * {
+	margin-left: 1em;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	/* justify-self: auto; */
+}
+
+.bigimage {
+	height: 700px
+}
+
+.smallimage {
+	height: 200px
+}
+
+.bigvideo {
+	height: 700px
+}
